@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fbd019c8.css",
+    "main.js": "/static/js/main.f537def1.js",
+    "static/js/787.f72aa6c9.chunk.js": "/static/js/787.f72aa6c9.chunk.js",
+    "static/media/Metropolis-Medium.otf": "/static/media/Metropolis-Medium.cdcce86268fb4a504ff5.otf",
+    "static/media/Metropolis-Regular.otf": "/static/media/Metropolis-Regular.67a1988d7b65b0aaa16d.otf",
+    "static/media/OutputTaxLiabilityIcon.svg": "/static/media/OutputTaxLiabilityIcon.ae73f9b8861d64899d19680d59a56936.svg",
+    "static/media/CountsLogo.svg": "/static/media/CountsLogo.07cdd34fdcd7ce3cb2a3b1a62ec9b75b.svg",
+    "static/media/AppsIcon.svg": "/static/media/AppsIcon.ccf73f428493ff11698a187f6681a1cd.svg",
+    "static/media/CountsIcon.svg": "/static/media/CountsIcon.ede60638e0e14fdc97f18d7afa2b22cf.svg",
+    "static/media/InputTaxCreditIcon.svg": "/static/media/InputTaxCreditIcon.1dabb8528007908c6a188ad7cdacda98.svg",
+    "static/media/ItcReconciliationIcon.svg": "/static/media/ItcReconciliationIcon.c5c76015014b8c6d43c9bfdb8492f5d0.svg",
+    "static/media/SearchIcon.svg": "/static/media/SearchIcon.6349f1176eedcd3fd8193358830c721d.svg",
+    "static/media/NotificationsIcon.svg": "/static/media/NotificationsIcon.b77376c1c3e4e173aedb327c9e5a5e35.svg",
+    "static/media/DownloadIcon.svg": "/static/media/DownloadIcon.b6287362770a2d66a756d4a5314737b2.svg",
+    "static/media/CalendarIcon.svg": "/static/media/CalendarIcon.ccff410ad5a811284683e40481d1622b.svg",
+    "static/media/FilterIcon.svg": "/static/media/FilterIcon.86806c81a7813de894defdd11315089e.svg",
+    "static/media/ReportIcon.svg": "/static/media/ReportIcon.7050db373b423862a6ceb66a87e76978.svg",
+    "index.html": "/index.html",
+    "static/media/ChevronDownIcon.svg": "/static/media/ChevronDownIcon.3a9f72fbd987157bbf3626adb56248ee.svg",
+    "static/media/Fullscreen.svg": "/static/media/Fullscreen.dadc1e3a181dcb15cf62b8e70953a010.svg",
+    "static/media/DashboardIcon.svg": "/static/media/DashboardIcon.832c5805057693a49bc62b4471a8fb4a.svg",
+    "static/media/VendorRiskIcon.svg": "/static/media/VendorRiskIcon.3681424593e5ffad7d05ccd477888f15.svg",
+    "main.fbd019c8.css.map": "/static/css/main.fbd019c8.css.map",
+    "main.f537def1.js.map": "/static/js/main.f537def1.js.map",
+    "787.f72aa6c9.chunk.js.map": "/static/js/787.f72aa6c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbd019c8.css",
+    "static/js/main.f537def1.js"
+  ]
+}

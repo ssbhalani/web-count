@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'Metropolis';
+  src: local('Metropolis'),
+       url('./font/Metropolis-Regular.otf') format('opentype');
+}
+@font-face {
+  font-family: 'MetropolisMedium';
+  src: local('MetropolisMedium'),
+       url('./font/Metropolis-Medium.otf') format('opentype');
+}
+body {
+  margin: 0;
+  /* font-family: 'Metropolis', sans-serif; */
+  font-family: 'Metropolis';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Metropolis';
+}
+
+.input-tax-credit, .reports{
+  fill: transparent !important;
+}
+
+.selectIconMenu.input-tax-credit > rect, .selectIconMenu.reports > path{
+  fill: transparent !important;
+}
